@@ -15,7 +15,7 @@ pip install pygame torch numpy
 ```
 
 ### 2. Create a .pth file
-Before running `main.py`, you need to run `train.py` to create a `.pth` file. This files contains the weight used by the neural network.
+Before running `main.py`, you need to run `train.py` to create a `.pth` file. This file contains the weight used by the neural network.
 
 ### 3. Start the program!
 Run `main.py` to enter the main user interface, or run `train.py` to train the model.
