@@ -3,6 +3,13 @@
 ## About
 This is a my practical project for A-Level Computer Science. It is a simple Python implementation of AlphaZero, one of the strongest chess-playing models to date. It utilizes reinforcement learning to train itself, eliminating the need for expensive data and human resources. For more information, please see [DeepMind's blog](https://deepmind.google/discover/blog/alphazero-shedding-new-light-on-chess-shogi-and-go/).
 
+## Features
+- Single player against AI
+- Two player game
+- Save and replay games
+- Self-play demonstration
+- User Interface customisation
+
 ## Preview
 For video demo please check out my [testing playlist on YouTube](https://youtube.com/playlist?list=PLFvwr-4vZ5GEFcu4QI-0qTpjvvlAU01-K&feature=shared)
 
