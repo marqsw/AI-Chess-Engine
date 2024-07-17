@@ -5,11 +5,7 @@ This is a my practical project for A-Level Computer Science. It is a simple Pyth
 
 ## Running the Program
 ### 1. Install dependencies
-In terminal, navigate to the directory containing `requirements.txt`, and run the following command:
-```
-pip install -r requirements.txt
-```
-or, manually install dependencies:
+In terminal, run the following command:
 ```
 pip install pygame torch numpy
 ```
